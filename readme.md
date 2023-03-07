@@ -1,9 +1,8 @@
-Notion:
+#Notion:
 https://www.notion.so/SAD-192a9b438e0b4ddcab3544e691646aa8?pvs=4
 
-Gitmind:
+#Gitmind:
 https://gitmind.com/app/docs/mig1g0as
-
 
 
 初級技術和知識：
