@@ -1,5 +1,5 @@
 #Notion:
-https://www.notion.so/SAD-192a9b438e0b4ddcab3544e691646aa8?pvs=4
+https://atom-opal-beb.notion.site/SAD-192a9b438e0b4ddcab3544e691646aa8
 
 #Gitmind:
 https://gitmind.com/app/docs/mig1g0as
