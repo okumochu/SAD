@@ -15,6 +15,7 @@
    https://www.w3schools.com/python/pandas/default.asp
    2. 人工智能和機器學習：運用Pytorch建立回歸模型，根據德的的資料預測能預測的內容 
    https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
+   https://pytorch.org/
     
 
 
