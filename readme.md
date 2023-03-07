@@ -11,7 +11,8 @@ https://gitmind.com/app/docs/mig1g0as
     3. 銷售和市場營銷知識
 
 機器學習：
-    1. 數據分析和大數據：Python -> pandas,numpy
+   
+   1. 數據分析和大數據：Python -> pandas,numpy
         https://www.w3schools.com/python/pandas/default.asp
     
     2. 人工智能和機器學習：運用Pytorch建立回歸模型，根據德的的資料預測能預測的內容
