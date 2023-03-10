@@ -7,8 +7,11 @@
 
 ## 知識技術：
 * 金融和保險知識
-* 數位銀行知識
 * 銷售和市場營銷知識
+* https://www.youtube.com/watch?v=tVYObPkyOW8&list=PL43QU9mKz0yKfh7hotCGO-kmoOZvQ2aBm&ab_channel=%E8%A...
+* https://www.youtube.com/watch?v=vmN_X9-9JfU&list=PLBI7gJKFch-UR5DfIHjIm4ADo_Bt-qenb&ab_channel=%E4%B...
+
+
 
 ## 機器學習：
    1. 數據分析和大數據：Python -> pandas,numpy 
