@@ -21,8 +21,9 @@
    * https://pytorch.org/
    
    
-## 影片：
-   1. https://www.youtube.com/watch?v=D_PAnBdPOyo&ab_channel=ChuOkumo 
+## 進度影片：
+   1. https://www.youtube.com/watch?v=D_PAnBdPOyo&ab_channel=ChuOkumo
+   2. 
 
 
 
