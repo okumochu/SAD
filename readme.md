@@ -24,6 +24,8 @@
 ## 進度影片：
    1. https://www.youtube.com/watch?v=D_PAnBdPOyo&ab_channel=ChuOkumo
    2. https://youtu.be/g4fckPJevC8
+   3. https://www.youtube.com/watch?v=M6r-jqvrHa4&ab_channel=ChuOkumo
+   ####https://docs.google.com/document/d/1lDZR4tJbT--zDupIqaw-LF36xjsZUpWsIZZUCs72Ax4/edit?usp=sharing
 
 
 
