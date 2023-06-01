@@ -26,6 +26,8 @@
    2. https://youtu.be/g4fckPJevC8
    3. https://www.youtube.com/watch?v=M6r-jqvrHa4&ab_channel=ChuOkumo
       1. https://docs.google.com/document/d/1lDZR4tJbT--zDupIqaw-LF36xjsZUpWsIZZUCs72Ax4/edit?usp=sharing
+   4. https://www.youtube.com/watch?v=_-wS8G8BNUk&ab_channel=ChuOkumo
+      1. https://docs.google.com/document/d/1rlnWCXv9EmYZ3ubscRPa0eG2NMkJbnUGbetiy6rIxV0/edit?usp=sharing
 
 
 
